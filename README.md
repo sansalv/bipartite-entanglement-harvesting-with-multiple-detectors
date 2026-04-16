@@ -29,8 +29,11 @@ Open the notebooks in Wolfram Mathematica.
 
 ## Citation
 
-If you use this work, please cite the corresponding paper and the archived version of the notebooks once the DOI is available.
+If you use these notebooks, please cite the corresponding paper:   [arXiv:2604.13869](https://arxiv.org/abs/2604.13869).
+
+Please also cite this repository using the citation information in `CITATION.cff`.  
+If available, use the Zenodo DOI for the tagged release.
 
 ## License
 
-License to be determined.
+This project is licensed under the MIT License (see `LICENSE`).
