@@ -1,6 +1,6 @@
 # Bipartite entanglement harvesting with multiple detectors
 
-This repository contains Mathematica notebooks used in the numerical analysis of the paper *Bipartite entanglement harvesting with multiple Unruh–DeWitt detectors*.
+This repository contains Mathematica notebooks used in the numerical analysis of the paper *Bipartite entanglement harvesting with multiple Unruh–DeWitt detectors* ([arXiv:2604.13869](https://arxiv.org/abs/2604.13869)).
 
 ## Contents
 
