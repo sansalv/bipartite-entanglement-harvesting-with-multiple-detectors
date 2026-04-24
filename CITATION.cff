@@ -11,5 +11,6 @@ authors:
 title: "Bipartite entanglement harvesting with multiple detectors (Mathematica notebooks)"
 version: 1.0.1
 date-released: 2026-04-24
+doi: https://doi.org/10.5281/zenodo.19609180
 url: "https://github.com/sansalv/bipartite-entanglement-harvesting-with-multiple-detectors"
 license: MIT

@@ -31,7 +31,9 @@ Open the notebooks in Wolfram Mathematica.
 
 If you use these notebooks, please cite the corresponding paper:   [arXiv:2604.13869](https://arxiv.org/abs/2604.13869).
 
-Please also cite this repository using the citation information in `CITATION.cff`.
+Please also cite this repository using the citation information in `CITATION.cff`.  
+
+Zenodo archive (all versions): https://doi.org/10.5281/zenodo.19609180
 
 ## License
 
